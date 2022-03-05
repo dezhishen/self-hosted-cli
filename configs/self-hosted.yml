@@ -1,0 +1,6 @@
+domain: 
+base-data-dir: /docker_data
+use-https: true
+auto-update-ssl-certs: true
+
+
